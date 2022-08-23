@@ -1,0 +1,52 @@
+{
+  "planificacion": [
+    {
+      "fecha": "",
+      "aprendisaje": "",
+      "metodologia": "",
+      "materiales": "",
+      "indicador": "",
+      "id": "",
+      "periodo": "",
+      "Asignatura": ""
+    },
+    {
+      "fecha": "2022-08-25",
+      "aprendisaje": "ejemploAprendisaje",
+      "metodologia": "EstrategiaEjemplo",
+      "materiales": "Pc Portatil Mac",
+      "indicador": "logro general",
+      "id": "230a5ad3-39cf-4c3e-866e-3c7fae5f6027"
+    },
+    {
+      "fecha": "2022-08-20",
+      "aprendisaje": "Entender Ecuaciones Diferenciales De Primer Orden",
+      "metodologia": "Estudiar",
+      "materiales": "Libro De Texto Matematicas",
+      "indicador": "Profundisar ",
+      "id": "95c36ae5-0bbf-423b-a19a-fc63c11f1bb9",
+      "periodo": "1",
+      "asignatura": "Matematicas"
+    },
+    {
+      "fecha": "2022-08-27",
+      "aprendisaje": "SADSADSAD",
+      "metodologia": "SADSADSAD",
+      "materiales": "SADSADAS",
+      "indicador": "SADASDA",
+      "id": "528cf0b0-1852-49ec-ba28-aeae005b7abf",
+      "periodo": "1",
+      "asignatura": "ASDSADASD"
+    },
+    {
+      "fecha": "2022-08-30",
+      "aprendisaje": "Repaso de ciencias",
+      "metodologia": "Lectura y ejercicios",
+      "materiales": "Libro de texto y tutoriales",
+      "indicador": "N/A",
+      "id": "a131c745-1fdf-459f-b371-6b4f73ce4102",
+      "periodo": "3",
+      "asignatura": "Ciencias "
+    }
+  ]
+}

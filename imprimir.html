@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planificacion</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+
+</head>
+
+
+<body>
+
+    <div class="datos-generales">
+        <p id="p-profesor">Profesor: </p>
+        <p id="p-asignatura">Unidad De Aprendisaje Asignatura</p>
+    </div>
+    
+    <div>
+        <img src="./fondo.jfif"
+    </div>
+
+    <div class="Planificaciones">
+          
+
+
+        <table class="table table-bordered" id="table-planificaciones2" >
+            <thead>
+                <tr>
+                  <th rowspan="2"  scope="col">Fecha-Actividad</th>
+                  <th rowspan="10" scope="col">Aprendisaje-Esperado</th>
+                  <th rowspan="10" scope="col">Estrategia-Metodologica</th>
+                  <th rowspan="10" scope="col">Materiales</th>
+                  <th rowspan="10" scope="col">Indicador-De-Logro</th>
+                </tr>
+              </thead>
+
+             <tbody id="table-body2">
+
+             </tbody>
+
+        </table>
+
+      
+
+    </div>
+
+    <input type='button' class="btn btn-danger" value='Imprimir' onclick='javascript:window.print()' />
+    <input type='button' class="btn btn-secondary" value='Regresar' onclick='javascript:window.location.href="./planificacion.html"' />
+    <script src="js/imprimir.js">
+
+    </script>
+
+</body>
+
+
+
+</html>

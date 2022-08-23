@@ -1,0 +1,7 @@
+.datos-generales{
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    font-size: medium;
+    justify-content: space-between;
+}
